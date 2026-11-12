@@ -1,0 +1,1048 @@
+{
+ "updated": "2026-11-12",
+ "items": [
+  {
+   "id": "2026-11-11-acs-9m-results",
+   "date": "2026-11-11",
+   "added": "2026-11-12",
+   "title": "ACS nine-month profit rises 20.5% to EUR 789m as backlog hits a record EUR 111b",
+   "summary": "CPB's ultimate parent ACS lifted attributable profit to EUR 789m on sales of EUR 41.3b to September, with backlog up 24% to a record of about EUR 111b and data centres now about EUR 26b of that. Turner in the US drove most of the growth, and the group says it is tracking at the top of its 30 to 35% ordinary profit target. A cashed-up, growing parent supports CIMIC's capacity to fund a long ECI and bid effort on Line 1.",
+   "tags": [
+    "GoFar JV"
+   ],
+   "disciplines": [
+    "Commercial & funding"
+   ],
+   "source": "Bolsamania",
+   "url": "https://www.bolsamania.com/noticias/resultados-anuncios/acs-gana-789-millones-septiembre-35-gracias-impulso-filial-eeuu--24131028.html"
+  },
+  {
+   "id": "2026-11-11-indonesia-whoosh-ridership",
+   "date": "2026-11-11",
+   "added": "2026-11-12",
+   "title": "Indonesia's Whoosh HSR ridership flatlines at 17,000 a day, stalling extension plans",
+   "summary": "The Jakarta to Bandung line has carried 18.2 million passengers since 2023 but daily ridership has sat around 17,000 since 2024, well short of the original 61,000 forecast, and load factors have fallen to about 45%. The government is taking over the Indonesian stake and wants the debt restructured before deciding on an extension to Surabaya, with poor last-mile access to stations outside city centres a key factor. It is a timely case study on demand risk and station placement as HSRA refines Line 1 patronage and station access at Gosford, Lake Macquarie and Broadmeadow.",
+   "tags": [
+    "Global HSR"
+   ],
+   "disciplines": [
+    "Operations",
+    "Commercial & funding",
+    "Stations & places"
+   ],
+   "source": "Railway Gazette International",
+   "url": "https://www.railwaygazette.com/infographics/2026/11/11/analysis-flatlining-indonesian-high-speed-rail-ridership-complicates-future-expansion-plans/"
+  },
+  {
+   "id": "2026-11-10-urda-state-funeral-adif",
+   "date": "2026-11-10",
+   "added": "2026-11-12",
+   "title": "Spain holds state funeral for 69 Urda victims as Adif's chief exits and election nears",
+   "summary": "A state funeral was held at Toledo Cathedral on 10 November for the 69 people killed when a high speed train hit a stationary train near Urda on 28 October. Adif president Luis Pedro Marco has followed transport minister Oscar Puente out the door, EU prosecutors are probing safety funding on the line, and a general election is set for 29 November. The fallout keeps operational safety, control-centre procedures and infrastructure manager accountability front of mind for HSRA and its advisers.",
+   "tags": [
+    "Global HSR"
+   ],
+   "disciplines": [
+    "Safety",
+    "Operations"
+   ],
+   "source": "ABC News (AP)",
+   "url": "https://abcnews.com/International/wireStory/spain-holds-state-funeral-69-killed-high-speed-138022635"
+  },
+  {
+   "id": "2026-11-10-john-holland-cfmeu-royal-commission",
+   "date": "2026-11-10",
+   "added": "2026-11-12",
+   "title": "Royal commission hears John Holland was pressured to settle with CFMEU on a Victorian rail job",
+   "summary": "Evidence to the Victorian royal commission on the CFMEU and the Big Build focused on the Gap Road level crossing removal in Sunbury, where work stopped in June 2022 after a run of union safety notices and costs reportedly blew out by about $6m. John Holland's Steve Testolin said siding with the union was framed as helpful for future work, and a Rail Network Alliance witness said the project director relayed that the minister's office wanted the dispute resolved. This puts industrial relations conduct by the rival Acciona / John Holland team under scrutiny and is a reminder that HSRA will look closely at IR and workforce plans.",
+   "tags": [
+    "Acciona / John Holland"
+   ],
+   "disciplines": [
+    "Commercial & funding",
+    "Safety"
+   ],
+   "source": "ABC News",
+   "url": "https://www.abc.net.au/news/2026-11-10/royal-commission-cfmeu-vic-big-build-day-two/107368012"
+  },
+  {
+   "id": "2026-11-10-macao-subsea-tbm-breakthrough",
+   "date": "2026-11-10",
+   "added": "2026-11-12",
+   "title": "Macao's 12.5m slurry TBM finishes a 2.4km subsea rail drive 37 days early",
+   "summary": "A China State Construction and Shanghai Tunnel Engineering JV, with Arup as designer, completed the 3km East Line cross-sea tunnel, including 2.4km under the sea, using a 12.52m slurry TBM rated to 8 bar. The machine was built for 450m curves, gradients of up to 6% and mixed soft-over-hard ground beneath seawalls, and finished 37 days ahead of programme. The ground and pressure conditions are a useful reference for large-diameter crossings on Line 1 such as the Hawkesbury and Brisbane Water.",
+   "tags": [
+    "Global HSR"
+   ],
+   "disciplines": [
+    "Innovation",
+    "Tunnelling & civils"
+   ],
+   "source": "The Tunnelling Journal",
+   "url": "https://tunnellingjournal.com/macao-cross-sea-tunnel-breaks-through-ahead-of-schedule/"
+  },
+  {
+   "id": "2026-11-10-moskva-driverless-trams",
+   "date": "2026-11-10",
+   "added": "2026-11-12",
+   "title": "Moscow targets 90% driverless trams by 2035 after 72,000km of sensor-guided service",
+   "summary": "Six trams fitted with cameras, lidar and radar have run on Route 10 since September 2025, and Moskva Metro reports more than 72,000km without a traffic violation, with 15 driverless trams planned by the end of 2026 and two-thirds of the fleet by 2030. The in-house perception and control suite handles stops, doors, signals, pedestrians and turnouts in mixed traffic. It shows how fast onboard perception is maturing, which is relevant to obstacle detection and automation options for the trains and systems package.",
+   "tags": [
+    "Global HSR"
+   ],
+   "disciplines": [
+    "Innovation",
+    "Operations",
+    "Rolling stock"
+   ],
+   "source": "Railway Gazette International",
+   "url": "https://www.railwaygazette.com/automation/2026/11/10/moskva-aims-for-90-of-its-tram-fleet-to-be-driverless-by-2035/"
+  },
+  {
+   "id": "2026-11-08-ertms-cost-complexity",
+   "date": "2026-11-08",
+   "title": "Europe's ERTMS rollout: suppliers and EU coordinator push to cut cost and complexity",
+   "summary": "Only about 10% of the EU core TEN-T network had trackside ERTMS by end 2024, with completion now estimated at EUR 75b to 85b. EU coordinator Matthias Ruete and suppliers' body UNIFE/UNISIG propose standardised trackside design, fewer specification changes, simpler authorisation and limiting early FRMCS to GSM-R equivalence. Useful benchmarks on where signalling cost sits (installation and interlockings) as Line 1 systems scope is defined.",
+   "tags": [
+    "Global HSR",
+    "Trains & systems"
+   ],
+   "disciplines": [
+    "Innovation",
+    "Signalling & comms",
+    "Commercial & funding"
+   ],
+   "source": "Railway Gazette International",
+   "url": "https://www.railwaygazette.com/ertms/2026/11/08/ertms-working-to-reduce-complexity-and-cost/",
+   "added": "2026-11-09"
+  },
+  {
+   "id": "2026-11-08-india-ai-crowd-cameras",
+   "date": "2026-11-08",
+   "title": "Indian Railways adds about 700 AI cameras and a 24-hour war room for festive crowds",
+   "summary": "Around 700 AI-enabled cameras now track passenger movement at New Delhi station to flag congestion early, backed by a round-the-clock control room as more than 18,000 festive special trains run. A live example of AI-led crowd management at a mega-station, relevant to peak and event-mode planning at Central and Parramatta.",
+   "tags": [
+    "Global HSR"
+   ],
+   "disciplines": [
+    "AI",
+    "Stations & places",
+    "Operations",
+    "Safety"
+   ],
+   "source": "Business Today",
+   "url": "https://www.businesstoday.in/india/story/diwali-chhath-rush-indian-railways-adds-18000-special-trains-700-ai-cameras-at-stations-566355-2026-11-08",
+   "added": "2026-11-09"
+  },
+  {
+   "id": "2026-11-07-taisei-ai-autonomous-tbm",
+   "date": "2026-11-07",
+   "added": "2026-11-12",
+   "title": "Taisei runs a large TBM autonomously with AI, beating veteran operators on precision",
+   "summary": "Japanese contractor Taisei has demonstrated AI-driven autonomous operation of a large tunnel boring machine, which it says steered more precisely than experienced human operators, as reported by Nikkei Asia. The work is aimed at Japan's shortage of skilled tunnelling crews, though no quantitative results have been published yet. With Line 1 needing long TBM drives and a tight skilled labour market, autonomous TBM control is an innovation angle worth tracking for the GoFar tunnelling approach.",
+   "tags": [
+    "Global HSR"
+   ],
+   "disciplines": [
+    "AI",
+    "Innovation",
+    "Tunnelling & civils"
+   ],
+   "source": "Get Ready for Agents (citing Nikkei Asia)",
+   "url": "https://www.getreadyforagents.com/news/taisei-ai-tunnel-boring-autonomous/"
+  },
+  {
+   "id": "2026-11-06-acs-weighs-hochtief-buyout",
+   "date": "2026-11-06",
+   "title": "ACS weighs buying out Hochtief minorities, a move that would tighten control over CIMIC",
+   "summary": "Bloomberg reported that ACS, which owns 75.7% of Hochtief, is studying a purchase of the remaining 24.3% or a merger; the stake would cost a little over EUR 6.9b at market prices and Hochtief shares rose about 5.5%. ACS declined to comment. A simpler ACS to Hochtief to CIMIC chain could reshape group capital allocation and governance behind CPB's GoFar role.",
+   "tags": [
+    "GoFar JV"
+   ],
+   "disciplines": [
+    "Commercial & funding"
+   ],
+   "source": "Demócrata",
+   "url": "https://www.democrata.es/en/economy/hochtief-rises-almost-6-ahead-of-the-possible-takeover-bid-opa-by-acs-to-take-control-of-100-of-the-group/",
+   "added": "2026-11-09"
+  },
+  {
+   "id": "2026-11-06-hochtief-9m-results",
+   "date": "2026-11-06",
+   "title": "Hochtief nine-month profit up 40% as backlog hits a record EUR 90b",
+   "summary": "Hochtief, CPB's parent via CIMIC, posted operational net profit of EUR 752m for January to September, up 40%, on sales of EUR 32b and new orders of EUR 48.6b; backlog reached EUR 89.7b and 2026 guidance was reaffirmed. Australian transmission work featured among awards. Signals strong balance sheet support behind CPB as Line 1 ECI work proceeds.",
+   "tags": [
+    "GoFar JV"
+   ],
+   "disciplines": [
+    "Commercial & funding"
+   ],
+   "source": "EuropaWire (Hochtief release)",
+   "url": "https://news.europawire.eu/hochtief-nine-month-operational-net-profit-rises-40-as-infrastructure-backlog-hits-eur-90-billion/eu-press-release/2026/11/06/13/09/05/186468/",
+   "added": "2026-11-09"
+  },
+  {
+   "id": "2026-11-06-eppo-urda-funds-probe",
+   "date": "2026-11-06",
+   "title": "EU prosecutors open fraud probe into safety funding for crash-hit Madrid to Seville line",
+   "summary": "The European Public Prosecutor's Office opened its own investigation into EUR 111m of EU regional funds granted in 2024 for signalling, safety and communications renewal on the Madrid to Seville line, targeting Adif and the rail safety agency among others. It follows a similar probe opened in March after the Adamuz crash. Funding and delivery accountability for signalling upgrades is now under criminal scrutiny, a cautionary tale for Line 1 assurance regimes.",
+   "tags": [
+    "Global HSR"
+   ],
+   "disciplines": [
+    "Safety",
+    "Signalling & comms",
+    "Commercial & funding"
+   ],
+   "source": "Euronews",
+   "url": "https://www.euronews.com/2026/11/06/eu-prosecutors-probe-fraud-claims-over-funds-for-spanish-rail-line-hit-by-deadly-crash",
+   "added": "2026-11-09"
+  },
+  {
+   "id": "2026-11-06-tgv-m-enters-service",
+   "date": "2026-11-06",
+   "title": "Alstom's TGV M (Avelia Horizon) carries its first passengers in France",
+   "summary": "SNCF's fifth-generation TGV entered passenger service on 6 November after delays, with nine cars and up to 740 seats (about 20% more), a claimed 20% energy saving and 320km/h operation. SNCF has around 160 on order. A reference point for Alstom, part of the Alstom/UGL trains and systems bidder, on 320km/h double-deck capacity and late-delivery risk.",
+   "tags": [
+    "Trains & systems",
+    "Global HSR"
+   ],
+   "disciplines": [
+    "Rolling stock",
+    "Innovation",
+    "Operations"
+   ],
+   "source": "Railway Gazette International",
+   "url": "https://www.railwaygazette.com/high-speed-train/2026/11/06/sncfs-fifth-generation-of-tgv-enters-passenger-service/",
+   "added": "2026-11-09"
+  },
+  {
+   "id": "2026-11-06-ita-tunnelling-awards-2026",
+   "date": "2026-11-06",
+   "title": "ITA Tunnelling Awards 2026: TBM sensing kit and an Australian lining erector among winners",
+   "summary": "Winners announced in Lisbon include TBM integrated sensing equipment (China, gold) and an Australian precast lining and automated erector system for mined tunnels (silver) in product innovation, plus automated primary supports for squeezing ground (Italy) for technical innovation. HS2's Chiltern Tunnels took bronze for major projects. A useful scan of proven tunnelling innovations to cite in Line 1 ECI proposals.",
+   "tags": [
+    "Global HSR"
+   ],
+   "disciplines": [
+    "Innovation",
+    "Tunnelling & civils"
+   ],
+   "source": "The Tunnelling Journal",
+   "url": "https://tunnellingjournal.com/ita-tunnelling-awards-2026-global-excellence-celebrated-as-winners-announced-in-lisbon/",
+   "added": "2026-11-09"
+  },
+  {
+   "id": "2026-11-06-ai-digital-twin-tram-pilots",
+   "date": "2026-11-06",
+   "title": "AI sensors and digital twins find unseen broken rails in European transit pilots",
+   "summary": "Peer-reviewed pilots in Leipzig, Bergamo and Gdynia used onboard sensing, AI and digital twins to flag overhead line hard points and track faults, including three previously undetected broken rails, and avoided a premature contact wire replacement. Authors estimate a two to three year payback, though samples were small. Supports the case for in-service monitoring from day one on Line 1.",
+   "tags": [
+    "Global HSR"
+   ],
+   "disciplines": [
+    "AI",
+    "Track & alignment",
+    "Operations"
+   ],
+   "source": "Bioengineer.org (European Transport Research Review)",
+   "url": "https://bioengineer.org/ai-sensors-and-digital-twins-catch-hidden-rail-faults-and-cut-fleet-costs-in-three-european-transit-pilots/",
+   "added": "2026-11-09"
+  },
+  {
+   "id": "2026-11-05-siemens-sumw-signaling-x",
+   "date": "2026-11-05",
+   "title": "Siemens Mobility signs Singapore MoUs and Taoyuan Signaling X contracts",
+   "summary": "At Singapore Urban Mobility Week, Siemens signed two MoUs with SBS Transit on asset lifecycle and digitalisation, and won contracts via ST Engineering to supply signalling, including its Signaling X platform, for Taoyuan Metro extensions. Siemens also cited its first Railigent X deployment on Sydney Metro Western Sydney Airport. Shows the ARC JV member pushing cloud-based signalling and data services in the region.",
+   "tags": [
+    "Trains & systems"
+   ],
+   "disciplines": [
+    "Signalling & comms",
+    "Innovation"
+   ],
+   "source": "Siemens",
+   "url": "https://news.siemens.com/en-us/sumw-2026/",
+   "added": "2026-11-09"
+  },
+  {
+   "id": "2026-11-04-central-coast-eoi-hsr-manufacturing",
+   "date": "2026-11-04",
+   "title": "Central Coast Council backs Bushells Ridge bid for HSRA manufacturing facility",
+   "summary": "Councillors voted 9-6 to submit an EOI to the HSRA for an advanced manufacturing facility on 20 hectares of Darkinjung Aboriginal Land Council land at Bushells Ridge, replacing an earlier Warnervale council-land option. Lake Macquarie will not lodge its own EOI but is pushing Glencore's former Teralba coal site, which NSW recently named its preferred location for the $12b state train manufacturing hub; HSRA EOIs close 18 November. Local manufacturing and depot siting will shape supply chain, logistics and community-benefit expectations for Line 1 bidders.",
+   "tags": [
+    "Program"
+   ],
+   "disciplines": [
+    "Rolling stock",
+    "Commercial & funding",
+    "Stations & places"
+   ],
+   "source": "Newcastle Herald",
+   "url": "https://www.newcastleherald.com.au/story/9384805/central-coast-council-express-interest-in-high-speed-rail-hub/",
+   "added": "2026-11-05"
+  },
+  {
+   "id": "2026-11-04-urda-puente-resigns",
+   "date": "2026-11-04",
+   "title": "Urda crash: Spain's transport minister resigns as young controller faces formal investigation",
+   "summary": "Óscar Puente quit on 3 November after a Congress appearance, with the death toll at 69 (two Australians among them, per ABC). Investigators are focused on why the Atocha control centre let the Renfe AVE resume six minutes after a signalling fault halted trains on a 63 km section; the 24-year-old controller is under formal investigation, and the government has promised control-centre improvements and a faster ERTMS rollout. Expect HSRA and regulators to probe degraded-mode operating rules, control-centre staffing and human factors in Line 1 systems integration.",
+   "tags": [
+    "Global HSR"
+   ],
+   "disciplines": [
+    "Safety",
+    "Signalling & comms",
+    "Operations"
+   ],
+   "source": "HNGN",
+   "url": "https://www.hngn.com/articles/273604/20261102/spain-train-crash-controller-questioned-toll-stands-68.htm",
+   "added": "2026-11-05"
+  },
+  {
+   "id": "2026-11-04-spain-hsr-safety-plan-ai",
+   "date": "2026-11-04",
+   "title": "Spain's post-Urda safety plan: AI agent, digital twin and fewer Madrid to Seville trains",
+   "summary": "Cabinet approved an eight-point plan including new control-centre software, an AI agent and digital twin to spot anomalies and monitor controller conversations, two-person validation in degraded mode, and cuts to services until ERTMS Level 2 by Hitachi (ex-Thales) is finished, likely early 2027. Adif's chair has also resigned. Shows regulators reaching for AI in control rooms and the cost of late signalling delivery.",
+   "tags": [
+    "Global HSR",
+    "Trains & systems"
+   ],
+   "disciplines": [
+    "AI",
+    "Safety",
+    "Signalling & comms",
+    "Operations"
+   ],
+   "source": "Railin",
+   "url": "https://www.railin.net/en/news/government-approves-plan-to-reinforce-high-speed-safety-after-madrid-seville-accidents/",
+   "added": "2026-11-09"
+  },
+  {
+   "id": "2026-11-03-sbb-ai-passenger-counting",
+   "date": "2026-11-03",
+   "title": "SBB tests AI on existing onboard cameras for real-time passenger counts",
+   "summary": "Swiss Federal Railways is running a proof of concept with ETH Zurich spin-off Parquery, which claims 98% accuracy without facial recognition or stored footage; rollout is not expected before 2029. The aim is live occupancy data in the SBB app, replacing door-sensor forecasts. Shows how operators are reusing onboard CCTV for AI analytics, with privacy design front and centre, a consideration for Line 1 passenger systems.",
+   "tags": [
+    "Global HSR"
+   ],
+   "disciplines": [
+    "AI",
+    "Operations"
+   ],
+   "source": "Bluewin",
+   "url": "https://bluewin.ch/en/news/switzerland/sbb-plans-to-use-ai-to-count-passengers-in-the-future-here-s-why-li.3658888",
+   "added": "2026-11-05"
+  },
+  {
+   "id": "2026-11-03-spain-china-ai-underground",
+   "date": "2026-11-03",
+   "title": "Spain and China seek partner for AI-driven tunnelling machinery research",
+   "summary": "Spain's CDTI is looking for a Spanish tunnelling or machinery firm to join a Central South University and UPC project on intelligent underground construction, covering ground perception with adaptive drilling, robotic drill-and-blast and connected machine monitoring. Proposals target the CHINEKA bilateral R&D call in late 2026. An early-stage signal that AI-assisted conventional excavation is attracting state R&D money, relevant to Line 1's mined caverns and portals.",
+   "tags": [
+    "Global HSR"
+   ],
+   "disciplines": [
+    "AI",
+    "Tunnelling & civils",
+    "Innovation"
+   ],
+   "source": "La Voz de Madrid",
+   "url": "https://lavozmadrid.es/en/sur-metropolitano/general/ai-and-robotics-advance-in-underground-construction",
+   "added": "2026-11-05"
+  },
+  {
+   "id": "2026-11-03-india-ai-elephant-detection",
+   "date": "2026-11-03",
+   "title": "Indian Railways to extend AI wildlife warning system to Walayar elephant corridor",
+   "summary": "After inspecting an AI surveillance and control room already running at Madhukkarai in Tamil Nadu, Indian Railways plans a similar elephant-detection and alert network at Walayar in Kerala, alongside two wildlife underpasses and fencing, fully funded by the railway. No cost or performance data was published. A deployed model for AI-based fauna detection that could inform Line 1 environmental and safety commitments through bushland and koala habitat.",
+   "tags": [
+    "Global HSR"
+   ],
+   "disciplines": [
+    "AI",
+    "Safety",
+    "Environment & approvals"
+   ],
+   "source": "Onmanorama",
+   "url": "https://onmanorama.com/news/kerala/2026/11/03/ai-alerts-underpasses-planned-to-make-walayar-tracks-safer-for-elephants.html",
+   "added": "2026-11-05"
+  },
+  {
+   "id": "2026-11-03-cpb-smec-sunshine-preferred",
+   "date": "2026-11-03",
+   "title": "CPB and SMEC alliance named preferred bidder for Melbourne Airport Rail's Sunshine rebuild",
+   "summary": "Victoria's rail delivery agency picked the Network Integration Program Alliance of CPB Contractors and SMEC on 21 October for the Sunshine station rebuild, Stage 1 of Melbourne Airport Rail; Stage 2 main works are due 2028 to 2031. Another major brownfield rail win for CPB, adding to its live rail workload alongside Line 1.",
+   "tags": [
+    "GoFar JV"
+   ],
+   "disciplines": [
+    "Stations & places",
+    "Track & alignment"
+   ],
+   "source": "Railway Gazette International",
+   "url": "https://www.railwaygazette.com/australia/2026/11/03/melbourne-airport-rail-link-moves-two-steps-closer-to-realisation/",
+   "added": "2026-11-09"
+  },
+  {
+   "id": "2026-11-02-alstom-sydney-metro-southwest",
+   "date": "2026-11-02",
+   "title": "Alstom's trains, CBTC and maintenance underpin Sydney Metro Southwest opening",
+   "summary": "Sydney Metro's M1 line now runs 66 km and 31 stations after the Southwest section opened, with Alstom supplying 23 extra six-car Metropolis trains, Urbalis CBTC on a 130-year-old brownfield corridor and fleet maintenance from Tallawong depot. Alstom says it is only the second brownfield CBTC conversion in Australia, after Melbourne's Metro Tunnel. Strengthens the Alstom/UGL team's local delivery credentials ahead of the Line 1 trains and systems contest.",
+   "tags": [
+    "Trains & systems"
+   ],
+   "disciplines": [
+    "Signalling & comms",
+    "Rolling stock",
+    "Operations",
+    "Innovation"
+   ],
+   "source": "Alstom",
+   "url": "https://www.alstom.com/press-releases-news/2026/11/alstom-trains-signalling-and-maintenance-solutions-enable-sydney-metro-southwest-passenger-service",
+   "added": "2026-11-05"
+  },
+  {
+   "id": "2026-11-02-le-train-talgo-avril",
+   "date": "2026-11-02",
+   "title": "Le Train sticks with troubled Talgo Avril despite Renfe recall and bogie cracks",
+   "summary": "French start-up Le Train says its order for up to 10 Avril sets (about EUR 350m) holds and 73% of conformity criteria are validated, but gives no certification date after Renfe abandoned Paris services and recalled its test trains. Bogie cracks have pulled several Spanish Avrils from service. A reminder of authorisation and fleet-reliability risk in new high speed rolling stock.",
+   "tags": [
+    "Global HSR"
+   ],
+   "disciplines": [
+    "Rolling stock",
+    "Safety"
+   ],
+   "source": "Railway Gazette International",
+   "url": "https://www.railwaygazette.com/news/2026/11/02/our-agreement-with-talgo-holds-le-train-keeps-faith-in-troubled-avril-for-french-launch/",
+   "added": "2026-11-09"
+  },
+  {
+   "id": "2026-11-01-australia-etcs-interoperability",
+   "date": "2026-11-01",
+   "title": "Australia's national ETCS push: mandatory trackside and onboard standards planned",
+   "summary": "Under the National Rail Action Plan, ministers have backed ETCS as the pathway for interoperability, with two mandatory standards adopting European specifications and ONRSR as enforcer. Queensland's Level 2 is in service and NSW is moving to Level 2. Sets the national framework the Line 1 signalling and trains package will need to align with.",
+   "tags": [
+    "Trains & systems",
+    "Program"
+   ],
+   "disciplines": [
+    "Signalling & comms",
+    "Environment & approvals"
+   ],
+   "source": "Railway Gazette International",
+   "url": "https://www.railwaygazette.com/australia/2026/11/01/australia-aiming-high-for-etcs-interoperability/",
+   "added": "2026-11-09"
+  },
+  {
+   "id": "2026-10-31-renfe-siemens-velaro-novo",
+   "date": "2026-10-31",
+   "title": "Renfe awards Siemens €1.22b order for 30 Velaro Novo 350km/h trains",
+   "summary": "The deal covers 30 seven-car, 520-seat Velaro Novo units with an option for 10 more, including maintenance equipment, with the first five due within 40 months and the full fleet within 62 months. Siemens highlights fewer components, onboard monitoring and remote diagnostics for predictive maintenance. A major reference win for Siemens Mobility, part of the ARC JV shortlisted for Line 1 trains and systems.",
+   "tags": [
+    "Trains & systems",
+    "Global HSR"
+   ],
+   "disciplines": [
+    "Rolling stock",
+    "Innovation",
+    "Commercial & funding"
+   ],
+   "source": "Que.es",
+   "url": "https://www.que.es/2026/10/31/trenes-ave-velaro-novo-renfe/",
+   "added": "2026-11-05"
+  },
+  {
+   "id": "2026-10-30-spain-ertms-eu-scrutiny",
+   "date": "2026-10-30",
+   "title": "EU scrutinises Spain's ERTMS funding: Madrid to Seville upgrade installed, not in service",
+   "summary": "The legacy LZB system failed about 22 minutes before the Urda collision, while the replacement ERTMS Level 2 was physically installed in June 2026 but awaits testing and authorisation until early 2027. Thales' €93.8m Adif contract from 2021 ran past its February 2026 deadline, and the European Commission is assessing Spain's recovery-fund milestone for rail modernisation. A pointed lesson on migration risk between signalling generations and on tying payments to safety authorisation, not handover.",
+   "tags": [
+    "Global HSR"
+   ],
+   "disciplines": [
+    "Signalling & comms",
+    "Safety",
+    "Commercial & funding"
+   ],
+   "source": "Brussels Signal",
+   "url": "https://brusselssignal.eu/2026/10/eu-funding-for-spanish-rail-safety-under-scrutiny-after-latest-high-speed-crash/",
+   "added": "2026-11-05"
+  },
+  {
+   "id": "2026-10-29-urda-control-centre-communication",
+   "date": "2026-10-29",
+   "title": "Analysis: informal control-centre instructions, not just kit failure, behind Urda collision",
+   "summary": "Railway Gazette reports the AVE driver queried an instruction to proceed at normal speed after the LZB outage, while control never told her the Iryo train was still stranded ahead; the standard degraded-mode rule of line-of-sight running at 40 km/h or less was not clearly applied. Spain's safety authority had already flagged rising human-factor incidents, and Iryo had warned weeks earlier of slow onboard reboots after LZB losses. Useful evidence for bid teams framing operations readiness, standardised voice protocols and training in their HSR proposals.",
+   "tags": [
+    "Global HSR"
+   ],
+   "disciplines": [
+    "Safety",
+    "Operations",
+    "Signalling & comms"
+   ],
+   "source": "Railway Gazette International",
+   "url": "https://www.railwaygazette.com/high-speed/2026/10/29/control-centre-communication-in-focus-as-spain-faces-rail-safety-reckoning/",
+   "added": "2026-11-05"
+  },
+  {
+   "id": "2026-10-29-fcc-nine-month-results",
+   "date": "2026-10-29",
+   "title": "FCC nine-month profit up 46%, construction revenue up 27% on rail and overseas growth",
+   "summary": "FCC's attributable profit rose to €230m, helped by a €40m currency gain, while construction revenue grew 27.4% to €2.7b and group EBITDA reached €1.1b. Management singled out railway projects as a key growth driver, and its region including Australia roughly doubled construction revenue. Signals FCC, part of the Advanced Alliance JV, has balance sheet momentum to keep pursuing Australian rail work.",
+   "tags": [
+    "Advanced Alliance"
+   ],
+   "disciplines": [
+    "Commercial & funding"
+   ],
+   "source": "Investing.com",
+   "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-fcc-posts-46-profit-jump-in-q3-2026-93CH-4981840",
+   "added": "2026-11-05"
+  },
+  {
+   "added": "2026-11-02",
+   "date": "2026-10-28",
+   "disciplines": [
+    "Safety",
+    "Signalling & comms"
+   ],
+   "source": "Al Jazeera",
+   "summary": "A Renfe train ran into the back of a stalled Iryo train after a signalling failure, when controllers cleared trains to resume normal speed. Adif has not yet found the point of failure. Expect signalling, control-centre resilience and safety assurance to feature in Australian HSR scrutiny.",
+   "tags": [
+    "Global HSR"
+   ],
+   "title": "Spain's second deadly HSR crash this year: 68 killed near Urda, Toledo",
+   "url": "https://www.aljazeera.com/news/2026/10/29/what-we-know-about-spains-second-high-speed-rail-tragedy-this-year",
+   "id": "2026-10-28-spain-urda-collision"
+  },
+  {
+   "id": "2026-10-28-hitachi-q2-mobility-orders",
+   "date": "2026-10-28",
+   "title": "Hitachi lifts FY2026 outlook as rail orders jump 69% on European signalling wins",
+   "summary": "Hitachi's Mobility segment (Hitachi Rail) posted a 69% rise in second-quarter orders, driven by large European rolling stock and signalling projects, and an 18% revenue gain. Management expects better margins from signalling mix and cost cuts, and noted Hitachi Digital supports Hitachi Rail on predictive maintenance. Confirms Hitachi Rail STS has scale and momentum going into the Line 1 trains and systems competition.",
+   "tags": [
+    "Trains & systems"
+   ],
+   "disciplines": [
+    "Commercial & funding",
+    "Signalling & comms"
+   ],
+   "source": "Investing.com",
+   "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-hitachi-lifts-fy2026-outlook-after-record-q2-93CH-4977935",
+   "added": "2026-11-05"
+  },
+  {
+   "added": "2026-11-02",
+   "date": "2026-10-27",
+   "disciplines": [
+    "Commercial & funding"
+   ],
+   "source": "Ferrovial / PR Newswire",
+   "summary": "Revenue rose to €7.4b and adjusted EBITDA to €1.2b. Construction margin of 4.1% is above its long-term target. A strong balance sheet and backlog support Ferrovial's capacity to commit to GoFar through a long ECI and delivery program.",
+   "tags": [
+    "GoFar JV"
+   ],
+   "title": "Ferrovial nine-month results: construction order book hits record €19b",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/ferrovial-delivers-strong-performance-first-214600337.html",
+   "id": "2026-10-27-ferrovial-9m-results"
+  },
+  {
+   "added": "2026-11-02",
+   "date": "2026-10-26",
+   "disciplines": [
+    "Track & alignment",
+    "Environment & approvals"
+   ],
+   "source": "ABC News",
+   "summary": "HSRA program manager Daniel Powrie said the footage will help pick sites for above-ground sections and construction depots. He confirmed most of the line runs underground but there will be surface works heading north from Gosford. Early signal of where surface construction and traffic management will sit in Package 1 and beyond.",
+   "tags": [
+    "People",
+    "Program"
+   ],
+   "title": "HSRA's Daniel Powrie: traffic cameras at 44 Central Coast intersections to guide route and depot sites",
+   "url": "https://www.abc.net.au/news/2026-10-26/central-coast-local-news-briefing/107307820",
+   "id": "2026-10-26-powrie-central-coast-cameras"
+  },
+  {
+   "id": "2026-10-26-bbv-hs2-m6-viaduct",
+   "date": "2026-10-26",
+   "title": "VINCI's BBV JV slides final 4,750-tonne HS2 viaduct over a live M6",
+   "summary": "Balfour Beatty VINCI incrementally launched the second of two 320 m weathering-steel viaducts over the M6 using hydraulic and strand jacks, with the final 76 m push taking nine hours. Because the piers carried the full deck load before the last move, the motorway stayed open throughout. A relevant VINCI reference for launching heavy structures over live road and rail interfaces, as Line 1 will need around Hawkesbury, Central Coast and Hunter crossings.",
+   "tags": [
+    "GoFar JV",
+    "Global HSR"
+   ],
+   "disciplines": [
+    "Innovation",
+    "Tunnelling & civils"
+   ],
+   "source": "HS2 Media Centre",
+   "url": "https://mediacentre.hs2.org.uk/news/hs2-installs-final-viaduct-over-m6",
+   "added": "2026-11-05"
+  },
+  {
+   "added": "2026-11-02",
+   "date": "2026-10-15",
+   "disciplines": [
+    "Commercial & funding"
+   ],
+   "source": "Acciona",
+   "summary": "A concession covering development, financing, construction and 30 years of operation for VicGrid's 2GW link. Shows Acciona taking on long-term, financed delivery roles, relevant if HSR moves toward PPPs.",
+   "tags": [
+    "Acciona / John Holland"
+   ],
+   "title": "Acciona named development partner for Gippsland offshore wind transmission",
+   "url": "https://www.acciona.com/updates/news/acciona-named-development-partner-major-australian-offshore-wind-transmission-project",
+   "id": "2026-10-15-acciona-gippsland-transmission"
+  },
+  {
+   "added": "2026-11-02",
+   "date": "2026-10-13",
+   "disciplines": [
+    "Innovation",
+    "AI",
+    "Rolling stock",
+    "Operations"
+   ],
+   "source": "Xinhua",
+   "summary": "The National Railway Administration plans demonstration projects including a 400km/h train operating system, research on 600km/h maglev, and over 20 AI applications using railway-specific large models. Signals where global HSR performance and digital tooling are heading over the life of Line 1.",
+   "tags": [
+    "Global HSR"
+   ],
+   "title": "China's 2026 to 2030 rail tech plan targets 400km/h operations and rail AI",
+   "url": "https://english.news.cn/20261013/a488d0dabb3546259613be7ff85e75fe/c.html",
+   "id": "2026-10-13-china-rail-innovation-plan"
+  },
+  {
+   "added": "2026-11-02",
+   "date": "2026-10-12",
+   "disciplines": [
+    "Operations"
+   ],
+   "source": "CIMIC / Medianet",
+   "summary": "UGL continues maintenance and asset management across 18 bp terminals. UGL is CPB's sister company in CIMIC and Alstom's partner in the trains and systems bid, so its health matters on both packages.",
+   "tags": [
+    "Trains & systems",
+    "GoFar JV"
+   ],
+   "title": "CIMIC's UGL extends bp fuel terminal maintenance through ATOM JV",
+   "url": "https://newshub.medianet.com.au/2026/10/cimic-groups-ugl-secures-extension-for-bp-fuel-terminal-services/176051/",
+   "id": "2026-10-12-ugl-bp-terminals"
+  },
+  {
+   "added": "2026-11-02",
+   "date": "2026-09-28",
+   "disciplines": [
+    "Commercial & funding"
+   ],
+   "source": "The Star",
+   "summary": "A 300MW solar and battery project, with a separate A$45m O&M contract expected. Gamuda keeps growing its Australian order book fast, which adds weight but also resource pressure for the Advanced Alliance.",
+   "tags": [
+    "Advanced Alliance"
+   ],
+   "title": "Gamuda wins A$790m Mortlake Energy Hub EPC in Victoria",
+   "url": "https://www.thestar.com.my/business/business-news/2026/09/28/gamuda-bags-rm228bil-contract-for-australia-renewable-energy-project",
+   "id": "2026-09-28-gamuda-mortlake-energy-hub"
+  },
+  {
+   "added": "2026-11-02",
+   "date": "2026-09-16",
+   "disciplines": [
+    "Innovation",
+    "Signalling & comms"
+   ],
+   "source": "Ericsson",
+   "summary": "Ericsson set out the path from testing to rollout for FRMCS, the 5G successor to GSM-R. Europe's MORANE-2 program is validating multi-vendor interoperability before trials on five lines. A greenfield line like Newcastle to Sydney could adopt FRMCS from day one rather than legacy GSM-R.",
+   "tags": [
+    "Global HSR"
+   ],
+   "title": "FRMCS moves toward deployment, with field trials planned on lines in Spain and Germany",
+   "url": "https://www.ericsson.com/en/news/2026/9/ericsson-shows-frmcs-path-at-innotrans-2026",
+   "id": "2026-09-16-ericsson-frmcs-path"
+  },
+  {
+   "added": "2026-11-02",
+   "date": "2026-09-11",
+   "disciplines": [
+    "Tunnelling & civils"
+   ],
+   "source": "The Star",
+   "summary": "The two are JV partners on the Hunter's M1 'missing link' while sitting in rival HSR consortia. Worth watching for capacity and partnering signals.",
+   "tags": [
+    "Acciona / John Holland",
+    "Advanced Alliance"
+   ],
+   "title": "Gamuda and John Holland wrap up M1 extension to Raymond Terrace",
+   "url": "https://www.thestar.com.my/business/business-news/2026/09/11/gamuda-john-holland-jv-wraps-up-m1-extension",
+   "id": "2026-09-11-gamuda-jh-m1"
+  },
+  {
+   "added": "2026-11-02",
+   "date": "2026-08-25",
+   "disciplines": [
+    "Commercial & funding"
+   ],
+   "source": "CPB Contractors",
+   "summary": "Adds 200 cells (400 beds) and security upgrades. Another large social infrastructure win for CPB while it bids HSR through GoFar.",
+   "tags": [
+    "GoFar JV"
+   ],
+   "title": "CPB wins ~$730m Townsville Correction Centre upgrade",
+   "url": "https://www.cpbcon.com.au/news-and-media/2026/townsville-correction-centre-capacity-uplift-project",
+   "id": "2026-08-25-cpb-townsville-correction"
+  },
+  {
+   "date": "2026-08-24",
+   "disciplines": [
+    "Rolling stock",
+    "Signalling & comms"
+   ],
+   "source": "Minister for Infrastructure",
+   "summary": "One proponent will later be selected to deliver trains, depot and railway systems.",
+   "tags": [
+    "Trains & systems"
+   ],
+   "title": "Alstom/UGL, ARC (Siemens) and Hitachi shortlisted for trains and systems",
+   "url": "https://minister.infrastructure.gov.au/c-king/media-release/high-tech-trains-ahead-high-speed-rail",
+   "id": "2026-08-24-trains-shortlist"
+  },
+  {
+   "date": "2026-08-23",
+   "disciplines": [
+    "Operations"
+   ],
+   "source": "Railway News",
+   "summary": "Keolis, SNCF Voyageurs and CERTIFER become Business, Operations and Maintenance Adviser. Value not disclosed.",
+   "tags": [
+    "Advisers"
+   ],
+   "title": "Keolis-led team appointed operations adviser",
+   "url": "https://railwaynews.net/keolis-wins-newcastle-sydney-hsr-shadow-operator-role.html",
+   "id": "2026-08-23-keolis-boma"
+  },
+  {
+   "date": "2026-08-17",
+   "disciplines": [
+    "Tunnelling & civils",
+    "Stations & places"
+   ],
+   "source": "Minister for Infrastructure",
+   "summary": "CPB, Ferrovial and Vinci shortlisted alongside Acciona/John Holland and the Advanced Alliance (Gamuda, FCC, Samsung C&T) for 35km of twin tunnels and Gosford station.",
+   "tags": [
+    "GoFar JV",
+    "Acciona / John Holland",
+    "Advanced Alliance"
+   ],
+   "title": "GoFar JV shortlisted for Area Package 1 civils ECI",
+   "url": "https://minister.infrastructure.gov.au/c-king/media-release/tunnellers-visions-shape-australias-high-speed-rail",
+   "id": "2026-08-17-civils-shortlist"
+  },
+  {
+   "id": "2026-07-31-wsp-technical-architectural-adviser",
+   "date": "2026-07-31",
+   "title": "WSP and Grimshaw appointed HSRA's technical and architectural adviser",
+   "summary": "WSP leads a team including Grimshaw as Technical and Architectural Adviser, supporting approvals, site investigations, procurement and technical assurance across tunnelling, geotech, stations and precincts, systems and digital engineering. The route is described as about 195 km, with roughly 115 km in tunnel. WSP and Grimshaw will help set the technical baseline and assurance lens that civils ECI bidders are assessed against (added as a backfill).",
+   "tags": [
+    "Advisers",
+    "Program"
+   ],
+   "disciplines": [
+    "Tunnelling & civils",
+    "Stations & places",
+    "Environment & approvals"
+   ],
+   "source": "The Tunnelling Journal",
+   "url": "https://tunnellingjournal.com/wsp-appointed-technical-adviser-for-australias-first-high-speed-rail-line/",
+   "added": "2026-11-05"
+  },
+  {
+   "added": "2026-11-02",
+   "date": "2026-07-16",
+   "disciplines": [
+    "Commercial & funding"
+   ],
+   "source": "The Urban Developer",
+   "summary": "Bechtel will help HSRA get the line construction ready. As the client-side partner it will influence scope, packaging and how ECI proposals from GoFar and rivals are assessed.",
+   "tags": [
+    "Advisers",
+    "Program"
+   ],
+   "title": "Bechtel appointed delivery partner for the development phase",
+   "url": "https://www.theurbandeveloper.com/articles/sydney-newcastle-high-speed-rail-delivery-partner-bechtel-nsw-australia",
+   "id": "2026-07-16-bechtel-delivery-partner"
+  },
+  {
+   "added": "2026-11-02",
+   "date": "2026-06-12",
+   "disciplines": [
+    "Stations & places",
+    "Commercial & funding"
+   ],
+   "source": "Construction Review Online",
+   "summary": "Coverage frames the roughly $66b line as enabling about 160,000 new homes along the corridor, with HSRA confirming Gosford as the Central Coast station. The housing narrative strengthens the political case and puts precinct and station outcomes in the spotlight for Package 1.",
+   "tags": [
+    "Program"
+   ],
+   "title": "Gosford confirmed as Central Coast station as HSR is pitched as a housing play",
+   "url": "https://constructionreviewonline.com/66-billion-sydney-newcastle-high-speed-rail-project-seen-easing-australias-housing-crisis/",
+   "id": "2026-06-12-housing-gosford-confirmed"
+  },
+  {
+   "added": "2026-11-02",
+   "date": "2026-04-21",
+   "disciplines": [
+    "Tunnelling & civils",
+    "Commercial & funding"
+   ],
+   "source": "Newcastle Weekly",
+   "summary": "Speaking as tenders opened for the tunnels package and the trains and systems package, Parker stressed a slow, considered planning process given the hills, national park and tunnelling. The development phase is funded at $659.6m.",
+   "tags": [
+    "People",
+    "Program"
+   ],
+   "title": "Parker: 'give us two years' to make the line construction ready",
+   "url": "https://newcastleweekly.com.au/newcastle-at-centre-of-high-speed-rail-milestone/",
+   "id": "2026-04-21-parker-construction-ready"
+  },
+  {
+   "date": "2026-04-21",
+   "disciplines": [
+    "Commercial & funding"
+   ],
+   "source": "HSRA",
+   "summary": "More than 700 people from around 250 organisations and 17 countries attended. Procurement starts for civils and trains/systems.",
+   "tags": [
+    "Program"
+   ],
+   "title": "Industry briefing in Newcastle opens EOIs for first two packages",
+   "url": "https://www.hsra.gov.au/industry-update",
+   "id": "2026-04-21-industry-briefing"
+  },
+  {
+   "added": "2026-11-02",
+   "date": "2026-04-08",
+   "disciplines": [
+    "Safety",
+    "Track & alignment"
+   ],
+   "source": "Railway Gazette",
+   "summary": "Investigators into January's Adamuz derailment in Córdoba (46 killed) found monitoring picked up a likely rail break almost a day before, but no alarm was triggered. A useful reference point on track monitoring and asset management requirements.",
+   "tags": [
+    "Global HSR"
+   ],
+   "title": "Adamuz crash probe: possible rail break detected 22 hours earlier, no alert raised",
+   "url": "https://www.railwaygazette.com/railtech-archive/2026/04/08/spain-high-speed-crash-possible-rail-break-detected-22-hours-before-accident-but-no-alert-triggered/",
+   "id": "2026-04-08-adamuz-rail-break"
+  },
+  {
+   "added": "2026-11-02",
+   "date": "2026-03-16",
+   "disciplines": [
+    "Innovation",
+    "Signalling & comms"
+   ],
+   "source": "Railway Gazette",
+   "summary": "SNCF ran a TGV the full 460km line under ETCS Level 2 with Alstom, replacing legacy TVM signalling. Shorter headways take peak capacity from 13 to 16 trains an hour each way. A useful benchmark for the signalling and capacity case on Line 1, and Alstom is a trains and systems bidder here.",
+   "tags": [
+    "Global HSR",
+    "Trains & systems"
+   ],
+   "title": "ETCS Level 2 tested at 300km/h on Paris to Lyon, lifting capacity about 25%",
+   "url": "https://www.railwaygazette.com/infrastructure/2026/03/16/sncf-completes-milestone-etcs-tests-on-paris-lyon-hs-line/",
+   "id": "2026-03-16-sncf-etcs-paris-lyon"
+  },
+  {
+   "added": "2026-11-02",
+   "date": "2026-03-10",
+   "disciplines": [
+    "AI",
+    "Innovation",
+    "Operations",
+    "Safety"
+   ],
+   "source": "China Daily",
+   "summary": "A China Academy of Railway Sciences researcher outlines AI for component inspection from trackside cameras, spotting obstacles near track, predictive maintenance from sensor data and driver assistance. A railway-specific large model is in pilot use. A benchmark for the operations and maintenance story HSRA's advisers will expect.",
+   "tags": [
+    "Global HSR"
+   ],
+   "title": "China's 'AI Plus Railways' plan: trackside image AI, obstacle detection, 350km/h automatic operation",
+   "url": "https://www.chinadailyasia.com/hk/article/630161",
+   "id": "2026-03-10-china-ai-plus-railways"
+  },
+  {
+   "date": "2026-03-03",
+   "disciplines": [
+    "Commercial & funding"
+   ],
+   "source": "Rail Express",
+   "summary": "HSRA takes seven major advisory roles to market as the development phase begins.",
+   "tags": [
+    "Program",
+    "Advisers"
+   ],
+   "title": "Seven advisory tenders opened",
+   "url": "https://www.railexpress.com.au/seven-major-tenders-announced-for-high-speed-rail/",
+   "id": "2026-03-03-seven-tenders"
+  },
+  {
+   "added": "2026-11-02",
+   "date": "2026-02-28",
+   "disciplines": [
+    "Stations & places",
+    "Commercial & funding"
+   ],
+   "source": "Newcastle Herald",
+   "summary": "The HSRA CEO wants HSR treated as a long-term national project above politics. Targets are construction-ready by 2028, then if funded Newcastle to Central Coast by 2037, central Sydney by 2039 and Western Sydney Airport by 2042. A new Broadmeadow station is planned, the Central Coast section goes underground, and PPPs are on the table.",
+   "tags": [
+    "People",
+    "Program"
+   ],
+   "title": "Tim Parker sets out the path: shovel-ready by 2028, Sydney by 2039",
+   "url": "https://www.newcastleherald.com.au/story/9184543/high-speed-rail-boss-tim-parker-on-sydney-to-newcastle-link/",
+   "id": "2026-02-28-tim-parker-interview"
+  },
+  {
+   "date": "2026-02-27",
+   "disciplines": [
+    "Commercial & funding",
+    "Stations & places"
+   ],
+   "source": "Newcastle Herald / ACM",
+   "summary": "Federal Government backs the Newcastle to Sydney line with stations at Newcastle, Lake Macquarie, Central Coast, Central, Parramatta and Western Sydney International.",
+   "tags": [
+    "Program"
+   ],
+   "title": "Business case released, Line 1 gets the green light",
+   "url": "https://www.edenmagnet.com.au/story/9185627/high-speed-rail-to-link-newcastle-and-sydney-in-60-minutes/",
+   "id": "2026-02-27-business-case"
+  },
+  {
+   "added": "2026-11-02",
+   "date": "2026-02-24",
+   "disciplines": [
+    "Commercial & funding"
+   ],
+   "source": "Time Out Sydney",
+   "summary": "Consumer-facing coverage of the government's commitment to the first leg, signalling the project has moved from planning talk to a funded development phase.",
+   "tags": [
+    "Program"
+   ],
+   "title": "Officials say Sydney to Newcastle HSR is finally going ahead",
+   "url": "https://www.timeout.com/sydney/news/officials-say-the-new-high-speed-rail-link-between-sydney-and-newcastle-is-finally-going-ahead-022426",
+   "id": "2026-02-24-officials-say-going-ahead"
+  },
+  {
+   "added": "2026-11-02",
+   "date": "2026-02-23",
+   "disciplines": [
+    "Commercial & funding"
+   ],
+   "source": "ABC News",
+   "summary": "Minister King says the aim is a shovel-ready project and final investment decision in 2028. First phase estimated at around $55b, rising to $70b to $90b with the Western Sydney Airport link.",
+   "tags": [
+    "Program"
+   ],
+   "title": "Extra $229.6m takes development funding to $659.6m, investment decision in 2028",
+   "url": "https://www.abc.net.au/news/2026-02-23/sydney-newcastle-high-speed-rail-construction-deadline/106376714",
+   "id": "2026-02-23-extra-229m-funding"
+  },
+  {
+   "added": "2026-11-02",
+   "date": "2026-02-23",
+   "disciplines": [
+    "Commercial & funding"
+   ],
+   "source": "World Construction Network",
+   "summary": "New pre-treatment facility and plant upgrades with Veolia and others, construction from Q3 2026. Part of a steady run of Western Sydney wins for CPB.",
+   "tags": [
+    "GoFar JV"
+   ],
+   "title": "CPB wins ~$150m Orchard Hills water filtration upgrade for Sydney Water",
+   "url": "https://www.worldconstructionnetwork.com/news/cpb-contractors-water-filtration-plant/",
+   "id": "2026-02-23-cpb-orchard-hills"
+  },
+  {
+   "added": "2026-11-02",
+   "date": "2026-02-09",
+   "disciplines": [
+    "AI",
+    "Innovation",
+    "Tunnelling & civils"
+   ],
+   "source": "Underground Construction",
+   "summary": "Developed by Hunan University with industry partners, it fuses torque, thrust, vibration and penetration data to predict geology ahead of the cutterhead and tune settings automatically. No measured project results yet. Relevant to how GoFar frames TBM risk and productivity on 35km of twin tunnels.",
+   "tags": [
+    "Global HSR"
+   ],
+   "title": "AI 'smart brain' for TBMs reads ground conditions and adjusts cutting in real time",
+   "url": "https://undergroundinfrastructure.com/news/2026/february/china-deploys-ai-powered-smart-brain-system-for-tunnel-boring-machines",
+   "id": "2026-02-09-ai-tbm-smart-brain"
+  },
+  {
+   "added": "2026-11-02",
+   "date": "2025-12-18",
+   "disciplines": [
+    "Tunnelling & civils",
+    "Stations & places"
+   ],
+   "source": "The Edge Malaysia",
+   "summary": "Five stations including Westmead, Burwood North and The Bays, worth about RM7.3b. Deepens Gamuda's Sydney station and tunnelling track record, a strength the Advanced Alliance will lean on for Gosford.",
+   "tags": [
+    "Advanced Alliance"
+   ],
+   "title": "Gamuda wins Sydney Metro West Stations Package West",
+   "url": "https://theedgemalaysia.com/node/786419",
+   "id": "2025-12-18-gamuda-metro-west-stations"
+  },
+  {
+   "added": "2026-11-02",
+   "date": "2025-11-06",
+   "disciplines": [
+    "Commercial & funding"
+   ],
+   "source": "ABC News",
+   "summary": "Infrastructure Australia approved the two-year development phase, which will engage contractors and confirm at least 40% of the design. Parker said he expects nothing other than government support for developing the project. Stage 1 is 194km, mostly tunnel, reaching the Central Coast by 2037 and Central Sydney by 2039.",
+   "tags": [
+    "People",
+    "Program"
+   ],
+   "title": "Tim Parker expects government backing as Infrastructure Australia clears development phase",
+   "url": "https://www.abc.net.au/news/2025-11-06/high-speed-rail-sydney-and-newcastle-another-step-closer/105978262",
+   "id": "2025-11-06-parker-expects-government-support"
+  },
+  {
+   "added": "2026-11-02",
+   "date": "2025-07-21",
+   "disciplines": [
+    "Commercial & funding"
+   ],
+   "source": "VINCI Construction",
+   "summary": "Adds to VINCI's growing Australian book alongside its Grands Projets tunnelling business, which brings the HSR tunnelling depth to GoFar.",
+   "tags": [
+    "GoFar JV"
+   ],
+   "title": "VINCI Construction wins three Australian contracts worth €431m",
+   "url": "https://vinci-construction.com/en/blog/2025/07/21/vinci-construction-awarded-three-construction-contracts-in-australia/",
+   "id": "2025-07-21-vinci-three-australian-contracts"
+  },
+  {
+   "added": "2026-11-02",
+   "date": "2024-11-26",
+   "disciplines": [
+    "Commercial & funding"
+   ],
+   "source": "International Railway Journal",
+   "summary": "The earliest public statement of the 2037 opening target, which HSRA has held to since. Useful baseline for tracking any slippage in the program.",
+   "tags": [
+    "People",
+    "Program"
+   ],
+   "title": "Parker at AusRAIL: first high speed line could be operating by 2037",
+   "url": "https://www.railjournal.com/passenger/high-speed/high-speed-authority-ceo-confirms-sydney-newcastle-project-timeline/",
+   "id": "2024-11-26-parker-2037-ausrail"
+  }
+ ]
+}
